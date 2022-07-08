@@ -13,6 +13,7 @@ https://www.liaoxuefeng.com/wiki/896043488029600
         C语言
         分布式版本控制系统
             安全
+
 基操
     本地传github
         建库，用SSH联通
@@ -35,6 +36,7 @@ https://www.liaoxuefeng.com/wiki/896043488029600
         恢复：添加到版本库的可以恢复
         rm xxxx.file
         git rm xxxx.file
+
 分支
     创建合并
         靠指针来调整，所以很快速
@@ -87,6 +89,7 @@ https://www.liaoxuefeng.com/wiki/896043488029600
     变基 rebase
         可以把本地未push的分叉提交历史整理成直线
         使我们在查看历史提交的变化时更容易，分叉的提交需要三方对比
+
 标签
     创建
         git tag v1.0
@@ -98,9 +101,11 @@ https://www.liaoxuefeng.com/wiki/896043488029600
         git push origin --tags
         git tag -d v0.9
         git push origin :refs/tags/v0.9
+
 自定义 Git
     git config --global color.ui true 不同颜色
     .gitignore 忽略特殊文件
     git config --global alias.co checkout 配置别名
+
 cheat sheet
 ｜ https://liaoxuefeng.gitee.io/resource.liaoxuefeng.com/git/git-cheat-sheet.pdf
