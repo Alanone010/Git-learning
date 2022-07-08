@@ -2,9 +2,11 @@
 Learning git and related operations for further work.
 
 这次的学习教程是廖雪峰的官方网站里的Git教程，比较清晰。
+
 https://www.liaoxuefeng.com/wiki/896043488029600
 
-有关笔记和操作记录更新在下方：
+有关笔记和操作更新在下方：
+
 
 介绍
     SVN/CVS
